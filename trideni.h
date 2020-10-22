@@ -5,15 +5,9 @@
 #include <exception>
 #include <vector>
 
-nacti(nazev_vstupniho_souboru, jmena){
-}
+typedef std::vector<std::string> seznam_slov;
 
-serad(jmena){
-  //bubble sort
-}
-
-zeptej_se_jestli_vypsat{
-}
-
-vypis(jmena){
-}
+void nacti(std::string nazev_vstupniho_souboru, seznam_slov & jmena);
+void serad(seznam_slov & jmena);
+bool zeptej_se_jestli_vypsat();
+void vypis(seznam_slov const& jmena);
