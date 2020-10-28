@@ -1,0 +1,10 @@
+Nacteno 4275 slov.
+Serazuji slova ...
+Hotovo. Serazeni trvalo 0.375 sekundy.
+
+Chcete vypsat serazena jmena [A/n]
+n
+
+--------------------------------
+Process exited after 1.759 seconds with return value 0
+Press any key to continue . . .
